@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🦉 I program best at night.     
 
 ### Project screenshots        
-##### Hexdump        
+##### [Hexdump](https://github.com/dibenso/Hexdump)          
 ![Hexdump](https://github.com/dibenso/Hexdump/blob/main/screenshot.jpg?raw=true)       
 
-##### Pokédex      
+##### [Pokédex](https://github.com/dibenso/Pokedex)        
 ![Pokédex](https://github.com/dibenso/Pokedex/blob/master/screenshot3.png)         
