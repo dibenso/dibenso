@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### [Hexdump](https://github.com/dibenso/Hexdump) ![Hexdump build status](https://github.com/dibenso/Hexdump/actions/workflows/cmake.yml/badge.svg)
 ![Hexdump](https://github.com/dibenso/Hexdump/blob/main/screenshot.jpg?raw=true)       
 
-### [Pokédex](https://github.com/dibenso/Pokedex)        
+### [Pokédex](https://github.com/dibenso/Pokedex)
 ![Pokédex](https://github.com/dibenso/Pokedex/blob/master/screenshot3.png)         
