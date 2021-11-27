@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 ## About         
-- 🚀 Recently released [pagination-component](https://github.com/dibenso/pagination-component) v1.0.0.
+- 🚀 Recently released [pagination-component](https://github.com/dibenso/pagination-component) v1.1.0.
 - 🔭 I’m currently working on [Hexdump](https://github.com/dibenso/Hexdump) - An application and library to dump and analyze binary files.
 - 🌱 I’m currently learning about systems programming.
 - 🛠 I’m looking to collaborate on anything related to systems programming.
